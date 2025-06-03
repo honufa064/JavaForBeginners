@@ -1,0 +1,22 @@
+!DOCTYPE html>
+<html>
+    <body>
+        <!-- <h1 style="background-color: red; font-style: 100px;">forhad</h1>/
+        <h2 style="color: red;">forhad</h2>
+        <h3 style="color: red;">forhad</h3>
+        <h4 style="color: red;">forhad</h4>
+        <h5 style="color: red;">forhad</h5>
+        <h6 style="color: red;">forhad</h6> -->
+        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br>
+            Soluta maiores culpa nulla atque mollitia laudantium nam voluptatem debitis, <br>
+            aspernatur dolore! Ullam animi laudantium dignissimos sint nemo quos itaque quae soluta.
+        </p> -->
+        <!-- <pre>
+        Does kamio learn english.
+        susmoy is very good boy
+        Japan is the best peacefull country
+        </pre> -->
+        
+
+    </body>
+</html>
