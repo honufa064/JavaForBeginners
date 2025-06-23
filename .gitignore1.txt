@@ -14,7 +14,7 @@
         <!-- <pre>
         Does kamio learn english.
         susmoy is very good boy
-        Japan is the best peacefull country
+        Japan is the best peacefull country 
         </pre> -->
         
 
